@@ -1,2 +1,2 @@
 # C-Coding-Test
-Repositório para guardar algumas coisas que estou aprendendo em C#.
+Repositório para guardar algumas coisas que estou aprendendo em C.
