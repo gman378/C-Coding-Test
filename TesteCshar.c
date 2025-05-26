@@ -6,7 +6,7 @@ void main()
 {
 
 	printf("Ola Mundo!");
-    //Apenas um codigo de introdução a C#.
+    //Apenas um codigo de introduÃ§Ã£o a C.
 
 
 }
